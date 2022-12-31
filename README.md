@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Dhanotiya</h1>
 <h3 align="center">A passionate frontend developer(ReactJS) from India</h3>
 
-<img align='right' alt='coding' width='400px' src ='https://www.canva.com/design/DAFWUuQH5R8/tqlAN5nI43itSc1HEa6qkQ/watch?utm_content=DAFWUuQH5R8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>
+<img align='right' alt='coding' width='400px' src ='https://github.com/ankitdprojects/ankitdprojects/blob/main/CODING%20Illustration%20Instagram%20posts.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitdprojects&label=Profile%20views&color=0e75b6&style=flat" alt="ankitdprojects" /> </p>
 
